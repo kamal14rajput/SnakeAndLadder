@@ -60,6 +60,7 @@ public class SnakeAndLadderMain {
 	        }
 	        System.out.println("Position :: "+playerPosition);
 		}
+		
 		System.out.println("We just make "+DICE_PLAYED+" Number of dice to win the game");
 	}
 }
